@@ -1,4 +1,4 @@
-# NavigationComponent
+# Navigation Component
 Navigation component ile sayfalar arası veri aktarımı:
 
 ![medium3](https://user-images.githubusercontent.com/57031770/140940527-250c3f56-0b2b-44b7-8107-b79a8c006607.gif)
